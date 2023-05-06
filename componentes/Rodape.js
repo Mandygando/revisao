@@ -12,7 +12,7 @@ const style = {
 const Rodape = () => {
   return (
     <div  style={{width: '100%'}} className="bg-secondary text-white text-center position-fixed bottom-0">
-      <p style={style}>Rodape</p>
+      <p style={style}>Fim</p>
     </div>
 
   )
